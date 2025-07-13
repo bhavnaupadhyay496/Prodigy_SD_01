@@ -14,6 +14,6 @@ This is a simple Java console application that converts temperatures between **C
 
 ---
 
-## 📌 Example
+
 
 
